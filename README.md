@@ -1,2 +1,2 @@
-# Proje
-Genel
+#Arac Alis Satis Yonetimi
+Veritabani islemleri
